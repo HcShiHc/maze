@@ -1,3 +1,17 @@
+# HI Sisi,
+# Please apply the below changes. These have been discussed but I believe the
+# fixes have not arrived at your git repo. Let's start with these simple
+# fixes. Once you are done with them feel free to remove these lines from
+# your code.
+
+# Fix 1: start == 'y' and '""' are identical actions, check them in one if
+# statement.
+# Fix 2: do not leave more than 2 empty lines between consecutive code block.
+# Most of the time 1 line will be sufficient.
+# Fix 3: Every line of code should be at most 80 characters long. Break down
+# long lines into multiple lines. Remember, \ is the linebreak character in 
+# Python, but you do not even have to use it. For additional details see:
+# https://www.tutorialspoint.com/How-to-wrap-long-lines-in-Python
 
 game = False
 coin = 0
